@@ -1,7 +1,7 @@
 '''
 Given two vaiables of integer type a and type b, exchange their values without using a third temporary variable.
 
-'''
+''' 
 
 # Initialize values of a and b
 a = 8
