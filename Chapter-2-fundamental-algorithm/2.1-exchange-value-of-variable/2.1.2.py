@@ -11,7 +11,7 @@ a = 'value of a'
 b = 'value of b'
 c = 'value of c'
 
-
+ 
 # Cyclic exchange
 
 temp = a      # take temporary variable & store value of a  
