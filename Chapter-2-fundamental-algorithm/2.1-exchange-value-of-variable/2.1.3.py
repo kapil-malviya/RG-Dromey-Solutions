@@ -13,7 +13,7 @@ c = "value of c"
 d = "value of d"
 
 # Perform the cyclic exchange
-
+ 
 temp = d
 d = c 
 c = b
