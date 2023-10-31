@@ -3,7 +3,7 @@ What happens when the argument given to the procedure exchange are i and a[i]?
 
 '''
 
-
+ 
 
 def exchange_variable(arr, i):
     if i < len(arr):
