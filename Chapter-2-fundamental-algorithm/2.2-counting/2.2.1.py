@@ -1,7 +1,7 @@
 '''
 Modify the algorithm above so that marks are read until an end-of-file is encountered. For this set of marks determine the total number of marks, the number of passes and the percentage pass rate.
 
-'''
+''' 
 
 def count_passed_students(marks):
     total_marks = 0
