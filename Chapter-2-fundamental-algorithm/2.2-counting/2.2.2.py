@@ -1,5 +1,6 @@
 '''
-Design an algorithm that reads a list of numbers and makes a count of the number of negatives and the number of non-negatives members in the set.
+Design an algorithm that reads a list of numbers and makes a count of the number of negatives and 
+the number of non-negatives members in the set.
 
 '''
 
