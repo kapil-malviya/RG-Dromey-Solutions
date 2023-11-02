@@ -1,5 +1,6 @@
 '''
-Given a set of n students examination marks (in the range 0 to 100) make a count of the number of students that passed the examination. A pass is awarded for all marks of 50 and above.
+Given a set of n students examination marks (in the range 0 to 100) make a count of the number 
+of students that passed the examination. A pass is awarded for all marks of 50 and above.
 
 '''
 
