@@ -2,7 +2,7 @@
 Design an algorithm to compute the average of n numbers.
 
 '''
-
+ 
 
 def compute_average(numbers):
     if not numbers:
