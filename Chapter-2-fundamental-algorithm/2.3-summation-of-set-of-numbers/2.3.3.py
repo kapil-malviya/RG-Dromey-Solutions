@@ -1,7 +1,7 @@
 '''
 Design an algorithm to compute the sum of the squares of n numbers.
 
-'''
+''' 
 
 def sum_of_squares(numbers):
     total = 0
