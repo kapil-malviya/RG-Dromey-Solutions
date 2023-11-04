@@ -2,7 +2,7 @@
 Redesign the algorithm so that it only needs to perform n-1 additions to sum n numbers.
 
 '''
-
+ 
 
 def add(numbers):
     if not numbers:
