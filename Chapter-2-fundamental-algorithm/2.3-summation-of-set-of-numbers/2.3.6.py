@@ -2,7 +2,7 @@
 Generate the first n terms of the sequence 
     1   2   4   8   16   32   ...
 without using multiplication.
-
+ 
 '''
 
 def generate_sequence(n):
