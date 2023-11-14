@@ -1,6 +1,6 @@
 '''
 Design an algorithm which, given some integer n, finds the largest factorial number present as a factor in n
-
+  
 '''
 
 def largest_factor(n):
