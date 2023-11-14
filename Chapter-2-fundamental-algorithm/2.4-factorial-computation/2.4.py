@@ -1,6 +1,6 @@
 '''
 Given a number n, compute n factorial (written as n!) where n>=0.
-
+  
 '''
 
 def factorial(n):
