@@ -1,5 +1,5 @@
 '''
-For a given x and a given n, design an algorithm to compute x**n/n!
+For a given x and a given n, design an algorithm to compute x**n/n! 
 
 '''
 
