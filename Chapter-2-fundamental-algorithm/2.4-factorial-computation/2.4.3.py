@@ -2,7 +2,7 @@
 Design an algorithm to determine whether or not a number n is a factorial number
 
 '''
-
+ 
 def fact_num(n):
     factorial = 1
     i = 1
