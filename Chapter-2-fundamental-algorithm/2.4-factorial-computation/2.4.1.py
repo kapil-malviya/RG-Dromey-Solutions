@@ -2,7 +2,7 @@
 For a given n, design an algorithm to compute 1/n!
 
 '''
-
+ 
 def factorial(n):
     if n == 0:
         return 1
