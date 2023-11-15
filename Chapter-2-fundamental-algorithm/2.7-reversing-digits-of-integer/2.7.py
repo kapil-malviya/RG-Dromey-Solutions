@@ -1,6 +1,6 @@
 '''
 Design an algorithm that accepts a positive integer and reverses the order of its digits.
-
+ 
 '''
 
 
