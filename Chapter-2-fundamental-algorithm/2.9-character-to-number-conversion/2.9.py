@@ -1,7 +1,7 @@
 '''
 
 Given the character representation of an integer convert it to its conventional decimal format.
-
+ 
 '''
 
 
