@@ -1,7 +1,7 @@
 '''
 
 Convert a decimal integer to its corresponding octal representation.
-
+ 
 '''
 
 def decimal_to_octal(decimal_number):
