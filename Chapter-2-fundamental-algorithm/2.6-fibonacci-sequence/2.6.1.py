@@ -1,4 +1,4 @@
-'''
+''' 
 Implement the Fibonacci algorithm as a function that accepts as input two 
 consecutive Fibonacci numbers and returns as output the next Fibonacci number.
 
