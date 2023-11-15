@@ -4,7 +4,7 @@ Desgn an algorithm to find the sum of the first n terms of the series
     f = 0! + 1! + 2! + 3! + ...... + n!         (n>=0)
 
 
-'''
+''' 
 
 
 # calculate factorial
